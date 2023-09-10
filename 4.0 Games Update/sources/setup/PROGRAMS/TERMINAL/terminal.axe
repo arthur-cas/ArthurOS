@@ -1,0 +1,27 @@
+:: Terminal
+:: Version 1.0.1
+:: Created by Arthur
+
+@echo off
+cls
+
+cd..
+cd..
+cd ARTHUROS
+cd SYSTEM32
+cd UI
+
+type UI_DESKTOP_TERMINAL.txt
+echo.
+echo ArthurOS Terminal v1.0
+echo Type 'help' to see commands
+echo Type 'exit' to exit terminal
+echo.
+cmd /k
+
+:exitb
+cd..
+cd..
+cd..
+cd PROGRAMS
+cd TERMINAL

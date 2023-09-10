@@ -1,0 +1,29 @@
+
+
+
+       NNNNNN  NNNNNNNN    NNNN      NNNNNN    NNNNNNNN
+     NN           NN     NN    NN  NN      NN     NN
+       NNNN       NN     NNNNNNNN  NNNNNNNN       NN
+           NN     NN     NN    NN  NN  NN         NN
+     NNNNNN       NN     NN    NN  NN    NN       NN
+
+
+      _________________________
+      |                       |
+      |          NN           |
+      |          NN           |
+      |      NN  NN  NN       |
+      |       NN    NN        |
+      |         NNNN          |
+      |_______________________|
+
+      (1)  Shutdown
+
+      _____________________________________________________
+      | (2) Desktop                                       |
+      |___________________________________________________|
+
+
+
+
+
