@@ -1,2 +1,2 @@
 # ArthurOS
-Um sistema operacional feito em batch
+An batch operating system
